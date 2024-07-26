@@ -1,0 +1,9 @@
+{
+  "ExampleModMyRelic": {
+    "NAME": "尖刺龟壳",
+    "FLAVOR": "冬暖夏凉",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，获得 3 层 荆棘 。每 10 层护甲获得 1 力量 。"
+    ]
+  }
+}

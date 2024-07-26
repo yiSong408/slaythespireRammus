@@ -1,0 +1,10 @@
+{
+  "modid": "ExampleMod",
+  "name": "披甲龙龟Mod",
+  "author_list": ["Rongyi"],
+  "description": "作为教程的mod。",
+  "version": "0.0.1",
+  "sts_version": "12-22-2020",
+  "mts_version": "3.23.2",
+  "dependencies": ["basemod"]
+}

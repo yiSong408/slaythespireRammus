@@ -1,0 +1,102 @@
+{
+  "ExampleModStrike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage."
+  },
+  "ExampleModDefend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! block."
+  },
+  "ExampleModScratch": {
+    "NAME": "Scratch",
+    "DESCRIPTION": "Deal !D! damage !M! times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times."
+  },
+  "ExampleModThrowSand": {
+    "NAME": "Throw Sand",
+    "DESCRIPTION": "Deal !D! damage，apply !M! Weak , apply !M! Vulnerable .",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage，apply !M! Weak , apply !M! Vulnerable ."
+  },
+  "ExampleModFlyingStab": {
+    "NAME": "Flying Stab",
+    "DESCRIPTION": "Deal !D! damage，gain !M!  Thorns .",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage，gain !M!  Thorns ."
+  },
+  "ExampleModTaunt": {
+    "NAME": "Taunt",
+    "DESCRIPTION": "Force target attacking, decrease target !M! Strength .",
+    "UPGRADE_DESCRIPTION": "Force target attacking, decrease target !M! Strength ."
+  },
+  "ExampleModRoll": {
+    "NAME": "Roll",
+    "DESCRIPTION": "Gain !B! block, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Gain !B! block, draw !M! card."
+  },
+  "ExampleModPowerball": {
+    "NAME": "Powerball",
+    "DESCRIPTION": "examplemod:Dash , Randomly remove a DeBuff, draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Randomly remove a DeBuff, draw !M! cards."
+  },
+  "ExampleModDefensiveBallCurl": {
+    "NAME": "Defensive Ball Curl",
+    "DESCRIPTION": "Gain !B! PlatedArmor , gain !M! Thorns .",
+    "UPGRADE_DESCRIPTION": "Gain !B! PlatedArmor , gain !M! Thorns ."
+  },
+  "ExampleModFrenzyingTaunt": {
+    "NAME": "Frenzying Taunt",
+    "DESCRIPTION": "Force all targets attacking, decrease target !M! Strength .",
+    "UPGRADE_DESCRIPTION": "Force all targets attacking, decrease target !M! Strength ，and lose #b2 Strength forever."
+  },
+  "ExampleModSoaringSlam": {
+    "NAME": "Soaring Slam",
+    "DESCRIPTION": "Deal !D! damage to all target at end of turn, consume examplemod:Dash to lose all target Strength .",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to all target at end of turn, consume examplemod:Dash to lose all target Strength ."
+  },
+  "ExampleModKingRammus": {
+    "NAME": "King",
+    "DESCRIPTION": "Double your Thorns .",
+    "UPGRADE_DESCRIPTION": "Double your Thorns ."
+  },
+  "ExampleModSweeperRammus": {
+    "NAME": "Sweeper",
+    "DESCRIPTION": "At end of turn or being attacked, gain !M! Thorns .",
+    "UPGRADE_DESCRIPTION": "At end of turn or being attacked, gain !M! Thorns ."
+  },
+  "ExampleModFrozenArmor": {
+    "NAME": "Frozen Armor",
+    "DESCRIPTION": "Gain Barricade , if already gained，gain !B! Block . Exhaust .",
+    "UPGRADE_DESCRIPTION": "Gain Barricade , if already gained，gain !B! Block . Exhaust ."
+  },
+  "ExampleModMoltenRammus": {
+    "NAME": "Molten Armor",
+    "DESCRIPTION": "Gain Barricade , if already gained，gain !M! Strength . Exhaust .",
+    "UPGRADE_DESCRIPTION": "Gain Barricade , if already gained，gain !M! Strength . Exhaust ."
+  },
+  "ExampleModArmorRelease": {
+    "NAME": "Armor Release",
+    "DESCRIPTION": "Gain !B! Block , gain !M! Weak .",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block , gain !M! Weak ."
+  },
+  "ExampleModChromeRammus": {
+    "NAME": "Chrome Armor",
+    "DESCRIPTION": "Block !M! damage when being attacked , gain #b3 Thorns .",
+    "UPGRADE_DESCRIPTION": "Block !M! damage when being attacked , gain #b3 Thorns ."
+  },
+  "ExampleModHextechRammus": {
+    "NAME": "Hextech Armor",
+    "DESCRIPTION": "Loss 1 Thorns , gain !B! Blocks and 1 Dexterity .",
+    "UPGRADE_DESCRIPTION": "Loss 1 Thorns , gain !B! Blocks and 1 Dexterity ."
+  },
+  "ExampleModGuardianAttack": {
+    "NAME": "Guardian Fury",
+    "DESCRIPTION": "Deal same damage with self Thorns !M! times.",
+    "UPGRADE_DESCRIPTION": "Deal same damage with self Thorns !M! times."
+  },
+  "ExampleModDurianDefender": {
+    "NAME": "Durian Defender",
+    "DESCRIPTION": "Exhaust NL Gain !M! plus value of Strength healing.",
+    "UPGRADE_DESCRIPTION": "Gain !M! plus value of Strength healing."
+  }
+}

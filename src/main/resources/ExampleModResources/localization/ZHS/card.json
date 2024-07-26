@@ -1,0 +1,103 @@
+{
+  "ExampleModStrike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "ExampleModDefend": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "ExampleModScratch": {
+    "NAME": "抓伤",
+    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 !M! 次。"
+  },
+  "ExampleModThrowSand": {
+    "NAME": "抛沙",
+    "DESCRIPTION": "造成 !D! 点伤害，给予 !M! 层 虚弱 ，给予 !M! 层 易伤 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，给予 !M! 层 虚弱 ，给予 !M! 层 易伤 。"
+  },
+  "ExampleModFlyingStab": {
+    "NAME": "飞刺",
+    "DESCRIPTION": "造成 !D! 点伤害，获得 !M! 层 荆棘 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害，获得 !M! 层 荆棘 。"
+  },
+  "ExampleModTaunt": {
+    "NAME": "嘲讽",
+    "DESCRIPTION": "强迫目标攻击，减少目标 !M! 层 力量 。",
+    "UPGRADE_DESCRIPTION": "强迫目标攻击，减少目标 !M! 层 力量 。"
+  },
+  "ExampleModRoll": {
+    "NAME": "翻滚",
+    "DESCRIPTION": "获得 !B! 点格挡，抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡，抽 !M! 张牌。"
+  },
+  "ExampleModPowerball": {
+    "NAME": "动力冲刺",
+    "DESCRIPTION": "examplemod:冲刺 ，随机消除一种负面影响，抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "随机消除一种负面影响，抽 !M! 张牌。"
+  },
+  "ExampleModDefensiveBallCurl": {
+    "NAME": "尖刺防御",
+    "DESCRIPTION": "获得 !B! 层 多层护甲 ，获得 !M! 层 荆棘 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 层 多层护甲 ，获得 !M! 层 荆棘 。"
+  },
+  "ExampleModFrenzyingTaunt": {
+    "NAME": "狂乱嘲讽",
+    "DESCRIPTION": "嘲讽所有敌人进行攻击，所有敌人本回合失去 !M! 层 力量 。",
+    "UPGRADE_DESCRIPTION": "嘲讽所有敌人进行攻击，所有敌人本回合失去 !M! 层 力量 ，并永久失去 #b2 层 力量 。"
+  },
+  "ExampleModSoaringSlam": {
+    "NAME": "地动山摇",
+    "DESCRIPTION": "回合结束对所有敌人造成 !D! 点伤害，所有敌人失去等同于 examplemod:冲刺 层 力量 。",
+    "UPGRADE_DESCRIPTION": "回合结束对所有敌人造成 !D! 点伤害，所有敌人失去等同于 examplemod:冲刺 层 力量 。"
+  },
+  "ExampleModKingRammus": {
+    "NAME": "国王",
+    "DESCRIPTION": "翻倍自身的 荆棘 。",
+    "UPGRADE_DESCRIPTION": "翻倍自身的 荆棘 。"
+  },
+  "ExampleModSweeperRammus": {
+    "NAME": "制胜金球",
+    "DESCRIPTION": "回合结束和被攻击时，获得 !M! 层 荆棘 。",
+    "UPGRADE_DESCRIPTION": "回合结束和被攻击时，获得 !M! 层 荆棘 。"
+  },
+  "ExampleModFrozenArmor": {
+    "NAME": "极寒护甲",
+    "DESCRIPTION": "获得 壁垒 ，如已有 壁垒 ，获得 !B! 格挡 。消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 壁垒 ，如已有 壁垒 ，获得 !B! 格挡 。消耗 。"
+  },
+  "ExampleModMoltenRammus": {
+    "NAME": "熔火之心",
+    "DESCRIPTION": "获得 壁垒 ，如已有 壁垒 ，获得 !M! 点 力量 。消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 壁垒 ，如已有 壁垒 ，获得 !M! 点 力量 。消耗 。"
+  },
+  "ExampleModArmorRelease": {
+    "NAME": "释放护甲",
+    "DESCRIPTION": "获得 !B! 格挡 ，获得 !M! 层 虚弱 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 格挡 ，获得 !M! 层 虚弱 。"
+  },
+  "ExampleModChromeRammus": {
+    "NAME": "铭金铠甲",
+    "DESCRIPTION": "被攻击时阻挡 !M! 点伤害 ，获得 3 层 荆棘 。",
+    "UPGRADE_DESCRIPTION": "被攻击时阻挡 !M! 点伤害 ，获得 3 层 荆棘 。"
+  },
+  "ExampleModHextechRammus": {
+    "NAME": "海克斯甲",
+    "DESCRIPTION": "失去 1 层 荆棘 ，获得 !B! 层 格挡 和 1 层 敏捷 。",
+    "UPGRADE_DESCRIPTION": "失去 1 层 荆棘 ，获得 !B! 层 格挡 和 1 层 敏捷 。"
+  },
+  "ExampleModGuardianAttack": {
+    "NAME": "守护者之怒",
+    "DESCRIPTION": "造成等同于自己 荆棘 的伤害 !M! 次。",
+    "UPGRADE_DESCRIPTION": "造成等同于自己 荆棘 的伤害 !M! 次。"
+  },
+  "ExampleModDurianDefender": {
+    "NAME": "榴莲守护者",
+    "DESCRIPTION": "消耗 NL 获得 !M! 点 加上 力量 值的治疗。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 加上 力量 值的治疗。"
+  }
+}
+

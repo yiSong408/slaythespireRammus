@@ -1,0 +1,23 @@
+{
+  "ExampleModDashPower": {
+    "NAME": "冲刺中",
+    "DESCRIPTIONS": [
+      "你现在拥有",
+      " 层 examplemod:冲刺 。"
+    ]
+  },
+  "ExampleModSweeperPower": {
+    "NAME": "亢奋",
+    "DESCRIPTIONS": [
+      "每次回合结束以及被攻击时获得",
+      " 层 荆棘 。"
+    ]
+  },
+  "ExampleModReductionPower": {
+    "NAME": "铭金",
+    "DESCRIPTIONS": [
+      "每次收到攻击时减少",
+      " 点伤害。"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ExampleModDashPower": {
+    "NAME": "Dashing",
+    "DESCRIPTIONS": [
+      "You are having",
+      " examplemod:Dash 。"
+    ]
+  },
+  "ExampleModSweeperPower": {
+    "NAME": "Sweeping",
+    "DESCRIPTIONS": [
+      "At end of turn and when being attacked, gain ",
+      " Thorns ."
+    ]
+  },
+  "ExampleModReductionPower": {
+    "NAME": "Chrome",
+    "DESCRIPTIONS": [
+      "Block ",
+      " damage when being attacked"
+    ]
+  }
+}

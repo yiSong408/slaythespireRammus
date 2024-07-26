@@ -1,0 +1,9 @@
+{
+  "ExampleModMyRelic": {
+    "NAME": "Spiked Turtle Shell",
+    "FLAVOR": "Hardest shell, coolest jacket",
+    "DESCRIPTIONS": [
+      "Start each combat with #b3 Thorns. Gain #b1 strength per #b10 armor you had"
+    ]
+  }
+}
