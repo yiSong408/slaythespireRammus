@@ -7,7 +7,6 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
 import com.evacipated.cardcrawl.modthespire.lib.SpireInitializer;
 import com.google.gson.Gson;
-import com.megacrit.cardcrawl.cards.green.FlyingKnee;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.core.Settings;
 import com.megacrit.cardcrawl.localization.*;
@@ -76,6 +75,7 @@ public class ExampleMod implements EditKeywordsSubscriber, EditCardsSubscriber, 
         BaseMod.addCard(new ArmorRelease());
         BaseMod.addCard(new HextechRammus());
         BaseMod.addCard(new DurianDefender());
+        BaseMod.addCard(new FullMental());
 
         BaseMod.addCard(new SoaringSlam());
         BaseMod.addCard(new KingRammus());

@@ -98,6 +98,11 @@
     "NAME": "榴莲守护者",
     "DESCRIPTION": "消耗 NL 获得 !M! 点 加上 力量 值的治疗。",
     "UPGRADE_DESCRIPTION": "获得 !M! 点 加上 力量 值的治疗。"
+  },
+  "ExampleModFullMental": {
+    "NAME": "全金属狂潮",
+    "DESCRIPTION": "在你的回合结束时，获得 !B! * X 层 格挡 。",
+    "UPGRADE_DESCRIPTION": "在你的回合结束时，获得 !B! * X 层 格挡 。"
   }
 }
 

@@ -98,5 +98,10 @@
     "NAME": "Durian Defender",
     "DESCRIPTION": "Exhaust NL Gain !M! plus value of Strength healing.",
     "UPGRADE_DESCRIPTION": "Gain !M! plus value of Strength healing."
+  },
+  "ExampleModFullMental": {
+    "NAME": "FullMental",
+    "DESCRIPTION": "At end of your turn, gain !B! * X Block .",
+    "UPGRADE_DESCRIPTION": "At end of your turn, gain !B! * X Block ."
   }
 }
