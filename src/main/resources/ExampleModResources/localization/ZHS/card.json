@@ -103,6 +103,31 @@
     "NAME": "全金属狂潮",
     "DESCRIPTION": "在你的回合结束时，获得 !B! * X 层 格挡 。",
     "UPGRADE_DESCRIPTION": "在你的回合结束时，获得 !B! * X 层 格挡 。"
+  },
+  "ExampleModDoubleSideArmor": {
+    "NAME": "双面护甲",
+    "DESCRIPTION": "获得 !B! 层 格挡 ，下回合再获得一次。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 层 格挡 ，下回合再获得一次。"
+  },
+  "ExampleModRisingUp": {
+    "NAME": "腾跃姿态",
+    "DESCRIPTION": "消耗 examplemod:冲刺 NL 随机获得一张技能牌。",
+    "UPGRADE_DESCRIPTION": "消耗 examplemod:冲刺 NL 随机获得一张消耗为0的技能牌。"
+  },
+  "ExampleModEnergyStrike": {
+    "NAME": "势能打击",
+    "DESCRIPTION": "造成 !D! 伤害，如有 examplemod:冲刺 则失去并使伤害翻倍。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 伤害，如有 examplemod:冲刺 则失去并使伤害翻倍。"
+  },
+  "ExampleModLastDefend": {
+    "NAME": "终极防御",
+    "DESCRIPTION": "消耗 NL 基于损失生命值获得等量 格挡 。",
+    "UPGRADE_DESCRIPTION": "消耗 NL 基于损失生命值获得等量 格挡 。"
+  },
+  "ExampleModPrepareToFight": {
+    "NAME": "准备战斗",
+    "DESCRIPTION": "获得 !B! 格挡。 NL 升级手牌中所有的格挡。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 格挡。 NL 升级手牌中所有的格挡。"
   }
 }
 

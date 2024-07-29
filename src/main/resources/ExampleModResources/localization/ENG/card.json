@@ -103,5 +103,30 @@
     "NAME": "FullMental",
     "DESCRIPTION": "At end of your turn, gain !B! * X Block .",
     "UPGRADE_DESCRIPTION": "At end of your turn, gain !B! * X Block ."
+  },
+  "ExampleModDoubleSideArmor": {
+    "NAME": "Double side armor",
+    "DESCRIPTION": "Gain !B! Block , gain again next turn.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block , gain again next turn."
+  },
+  "ExampleModRisingUp": {
+    "NAME": "Rising up",
+    "DESCRIPTION": "Exhaust examplemod:Dash NL Gain random Skill card.",
+    "UPGRADE_DESCRIPTION": "Exhaust examplemod:Dash NL Gain random Skill card, cost 0."
+  },
+  "ExampleModEnergyStrike": {
+    "NAME": "Energy strike",
+    "DESCRIPTION": "Deal !D! damage, if has examplemod:Dash , loss it and double the damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage, if has examplemod:Dash , loss it and double the damage."
+  },
+  "ExampleModLastDefend": {
+    "NAME": "Last defence",
+    "DESCRIPTION": "Exhaust NL Gain Block based on lost hp.",
+    "UPGRADE_DESCRIPTION": "Exhaust NL Gain Block based on lost hp."
+  },
+  "ExampleModPrepareToFight": {
+    "NAME": "Prepare to fight",
+    "DESCRIPTION": "Gain !B! Block. NL Level up all Defend in hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Level up all Defend in hand."
   }
 }
