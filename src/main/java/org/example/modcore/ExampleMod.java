@@ -69,6 +69,7 @@ public class ExampleMod implements EditKeywordsSubscriber, EditCardsSubscriber, 
         BaseMod.addCard(new DoubleSideArmor());
         BaseMod.addCard(new EnergyStrike());
         BaseMod.addCard(new PrepareToFight());
+        BaseMod.addCard(new PrepareToDash());
 
         BaseMod.addCard(new Powerball());
         BaseMod.addCard(new DefensiveBallCurl());
@@ -81,6 +82,9 @@ public class ExampleMod implements EditKeywordsSubscriber, EditCardsSubscriber, 
         BaseMod.addCard(new FullMental());
         BaseMod.addCard(new RisingUp());
         BaseMod.addCard(new LastDefend());
+        BaseMod.addCard(new Spinning());
+        BaseMod.addCard(new BeSteady());
+        BaseMod.addCard(new ArmorPowerUp());
 
         BaseMod.addCard(new SoaringSlam());
         BaseMod.addCard(new KingRammus());

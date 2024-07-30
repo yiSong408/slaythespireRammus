@@ -128,6 +128,26 @@
     "NAME": "准备战斗",
     "DESCRIPTION": "获得 !B! 格挡。 NL 升级手牌中所有的格挡。",
     "UPGRADE_DESCRIPTION": "获得 !B! 格挡。 NL 升级手牌中所有的格挡。"
+  },
+  "ExampleModPrepareToDash": {
+    "NAME": "准备冲刺",
+    "DESCRIPTION": "获得 !B! 格挡。 NL examplemod:冲刺 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 格挡。 NL examplemod:冲刺 。"
+  },
+  "ExampleModSpinning": {
+    "NAME": "转圈圈",
+    "DESCRIPTION": "获得 !B! 格挡 !M! 次。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 格挡 !M! 次。"
+  },
+  "ExampleModBeSteady": {
+    "NAME": "稳住阵脚",
+    "DESCRIPTION": "获得 !M! 敏捷 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 敏捷 。"
+  },
+  "ExampleModArmorPowerUp": {
+    "NAME": "升级护甲",
+    "DESCRIPTION": "回合结束时获得 !M! 格挡 。",
+    "UPGRADE_DESCRIPTION": "回合结束时获得 !M! 格挡 。"
   }
 }
 

@@ -128,5 +128,25 @@
     "NAME": "Prepare to fight",
     "DESCRIPTION": "Gain !B! Block. NL Level up all Defend in hand.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Level up all Defend in hand."
+  },
+  "ExampleModPrepareToDash": {
+    "NAME": "Prepare to dash",
+    "DESCRIPTION": "Gain !B! Block. NL examplemod:Dash.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL examplemod:Dash."
+  },
+  "ExampleModSpinning": {
+    "NAME": "Spinning",
+    "DESCRIPTION": "Gain !B! Block !M! times.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block !M! times."
+  },
+  "ExampleModBeSteady": {
+    "NAME": "Hold on",
+    "DESCRIPTION": "Gain !M! Dexterity .",
+    "UPGRADE_DESCRIPTION": "Gain !M! Dexterity ."
+  },
+  "ExampleModArmorPowerUp": {
+    "NAME": "Armor power up",
+    "DESCRIPTION": "At end of turn gain !M! Block .",
+    "UPGRADE_DESCRIPTION": "At end of turn gain !M! Block ."
   }
 }
