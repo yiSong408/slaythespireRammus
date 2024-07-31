@@ -148,5 +148,20 @@
     "NAME": "Armor power up",
     "DESCRIPTION": "At end of turn gain !M! Block .",
     "UPGRADE_DESCRIPTION": "At end of turn gain !M! Block ."
+  },
+  "ExampleModDefendMode": {
+    "NAME": "Defend mode",
+    "DESCRIPTION": "Gain double Block , gain !M! Weak .",
+    "UPGRADE_DESCRIPTION": "Gain double Block , gain !M! Weak ."
+  },
+  "ExampleModGoldenArmor": {
+    "NAME": "Golden armor",
+    "DESCRIPTION": "Gain !B! Blocks , return !M! damage when attacked in this return. NL Can be upgraded multiple times.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Blocks , return !M! damage when attacked in this return. NL Can be upgraded multiple times."
+  },
+  "ExampleModSpikeBoomerang": {
+    "NAME": "Spike boomerang",
+    "DESCRIPTION": "Deal !D! damage !M! times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times."
   }
 }

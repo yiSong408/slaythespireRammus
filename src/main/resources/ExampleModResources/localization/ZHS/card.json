@@ -148,6 +148,21 @@
     "NAME": "升级护甲",
     "DESCRIPTION": "回合结束时获得 !M! 格挡 。",
     "UPGRADE_DESCRIPTION": "回合结束时获得 !M! 格挡 。"
+  },
+  "ExampleModDefendMode": {
+    "NAME": "防御姿态",
+    "DESCRIPTION": "翻倍自己的格挡，获得 !M! 层 虚弱 。",
+    "UPGRADE_DESCRIPTION": "翻倍自己的格挡，获得 !M! 层 虚弱 。"
+  },
+  "ExampleModGoldenArmor": {
+    "NAME": "神圣金甲",
+    "DESCRIPTION": "获得 !B! 层格挡，本回合被攻击时反弹 !M! 点伤害。NL 可无限升级。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 层格挡，本回合被攻击时反弹 !M! 点伤害。NL 可无限升级。"
+  },
+  "ExampleModSpikeBoomerang": {
+    "NAME": "尖刺回旋镖",
+    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 !M! 次。"
   }
 }
 
