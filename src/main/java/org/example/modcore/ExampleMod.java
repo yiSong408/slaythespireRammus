@@ -88,6 +88,8 @@ public class ExampleMod implements EditKeywordsSubscriber, EditCardsSubscriber, 
         BaseMod.addCard(new ArmorPowerUp());
         BaseMod.addCard(new DefendMod());
         BaseMod.addCard(new SpikeBoomerang());
+        BaseMod.addCard(new KeepDefend());
+        BaseMod.addCard(new Earthquake());
 
         BaseMod.addCard(new SoaringSlam());
         BaseMod.addCard(new KingRammus());

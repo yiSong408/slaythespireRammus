@@ -163,6 +163,16 @@
     "NAME": "尖刺回旋镖",
     "DESCRIPTION": "造成 !D! 点伤害 !M! 次。",
     "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 !M! 次。"
+  },
+  "ExampleModKeepDefend": {
+    "NAME": "据守",
+    "DESCRIPTION": "每有一张手牌获得 !B! 层格挡。",
+    "UPGRADE_DESCRIPTION": "每有一张手牌获得 !B! 层格挡。"
+  },
+  "ExampleModEarthquake": {
+    "NAME": "地震",
+    "DESCRIPTION": "对所有敌人造成 !D! 伤害并给予 1 层虚弱。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 伤害并给予 1 层虚弱。"
   }
 }
 

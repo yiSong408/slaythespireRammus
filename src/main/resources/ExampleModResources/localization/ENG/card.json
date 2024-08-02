@@ -163,5 +163,15 @@
     "NAME": "Spike boomerang",
     "DESCRIPTION": "Deal !D! damage !M! times.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times."
+  },
+  "ExampleModKeepDefend": {
+    "NAME": "Keep defend",
+    "DESCRIPTION": "Gain !B! Block whenever one card in hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block whenever one card in hand."
+  },
+  "ExampleModEarthquake": {
+    "NAME": "Earthquake",
+    "DESCRIPTION": "Deal all enemies !D! damage and apply 1 Weak .",
+    "UPGRADE_DESCRIPTION": "Deal all enemies !D! damage and apply 1 Weak ."
   }
 }
